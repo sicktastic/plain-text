@@ -1,3 +1,3 @@
-# Countries in Plain Text
+# Plain Text Goodness
 
-List of countries in plain text.
+Things you need all the time... in plain text
